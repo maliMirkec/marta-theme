@@ -1,0 +1,137 @@
+name "Cita Light"
+
+base {
+    appearance "light"
+    background #ffffff
+    separator #d6e1ec
+    text #043a73
+}
+
+actionBar {
+    separator #d6e1ec
+
+    button {
+        background #f3f7fb
+        hotkey #d1124a
+        text #4f6a8c
+    }
+}
+
+asyncProgressBar {
+    border #7f93ad
+    progress #043a73
+    itemProgress #06447f
+}
+
+breadcrumbs {
+    color1 #ffffff
+    color2 #f3f7fb
+    color3 #e8eff6
+    separator #7f93ad
+    text #4f6a8c
+}
+
+files {
+    background {
+        alternate #f8fafd
+        current #9bf7da
+        currentSelected #9bf7da
+        selected #00000000
+    }
+
+    dragDropSelection {
+        color #043a73
+        width 1
+    }
+
+    text {
+        current #043a73
+        currentSelected #d1124a
+        hidden #7f93ad
+        matched #945a00
+        selected #d1124a
+
+        highlighting1 #0b5cad
+        highlighting2 #08805a
+        highlighting3 #945a00
+        highlighting4 #b3336b
+    }
+}
+
+searchBar {
+    query {
+        background #ffffff
+        border #d6e1ec
+        text #043a73
+        placeholder #7f93ad
+    }
+
+    results {
+        highlighting #d1124a
+        selection #c4f5e9
+        subtitle #4f6a8c
+        text #043a73
+    }
+
+    rowSeparator {
+        color #d6e1ec
+        show true
+    }
+}
+
+statusBar {
+    background #e0fcf3
+    border #d6e1ec
+    text #043a73
+    quickSelectNoResultsHighlighting #d1124a
+}
+
+tableHeader {
+    separator #d6e1ec
+    text #4f6a8c
+
+    pressed {
+        background #e8eff6
+    }
+}
+
+tabs {
+    active {
+        text #043a73
+    }
+
+    inactive {
+        background #f3f7fb
+        text #7f93ad
+    }
+}
+
+terminal {
+    caret {
+        background #043a73
+        text #ffffff
+    }
+}
+
+textEditor {
+    error #d1124a
+    warning #945a00
+    keyword #d1124a
+    comment #5a7394
+    identifier #043a73
+
+    literal {
+        string #08805a
+        number #b3336b
+        color #08805a
+    }
+
+    gutter {
+        background #f3f7fb
+        text #7f93ad
+    }
+}
+
+titleBar {
+    text #043a73
+}

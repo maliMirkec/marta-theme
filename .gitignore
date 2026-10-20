@@ -1,0 +1,5 @@
+*
+!.gitignore
+!Cita*.theme
+!Cita*.ettyTheme
+!cita-*-color-theme.json

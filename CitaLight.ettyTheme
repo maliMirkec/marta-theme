@@ -1,0 +1,26 @@
+background #f3f7fb
+caret #043a73
+caretText #f3f7fb
+foreground #043a73
+name "Cita Light"
+selectedText #043a73
+selection #c4f5e9
+
+ansiColors [
+    #043a73
+    #d1124a
+    #08805a
+    #945a00
+    #0b5cad
+    #b3336b
+    #0a7a8a
+    #7f93ad
+    #4f6a8c
+    #e8325f
+    #0fa374
+    #b87400
+    #1c6fa8
+    #c94f84
+    #1293a5
+    #a9b8cc
+]

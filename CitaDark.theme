@@ -1,0 +1,137 @@
+name "Cita Dark"
+
+base {
+    appearance "dark"
+    background #02264d
+    separator #0a3a6b
+    text #e6f0fa
+}
+
+actionBar {
+    separator #0a3a6b
+
+    button {
+        background #011d3b
+        hotkey #63f2c5
+        text #9db4d3
+    }
+}
+
+asyncProgressBar {
+    border #5f7fa8
+    progress #63f2c5
+    itemProgress #9bf7da
+}
+
+breadcrumbs {
+    color1 #02264d
+    color2 #011d3b
+    color3 #043a73
+    separator #5f7fa8
+    text #9db4d3
+}
+
+files {
+    background {
+        alternate #022247
+        current #0f6652
+        currentSelected #0f6652
+        selected #00000000
+    }
+
+    dragDropSelection {
+        color #63f2c5
+        width 1
+    }
+
+    text {
+        current #b8e6ff
+        currentSelected #ffd27a
+        hidden #5f7fa8
+        matched #ffd27a
+        selected #ff5c85
+
+        highlighting1 #8fd3ff
+        highlighting2 #63f2c5
+        highlighting3 #ffd27a
+        highlighting4 #ff9eb5
+    }
+}
+
+searchBar {
+    query {
+        background #011830
+        border #0a3a6b
+        text #e6f0fa
+        placeholder #5f7fa8
+    }
+
+    results {
+        highlighting #63f2c5
+        selection #0f6652
+        subtitle #9db4d3
+        text #e6f0fa
+    }
+
+    rowSeparator {
+        color #0a3a6b
+        show true
+    }
+}
+
+statusBar {
+    background #011830
+    border #0a3a6b
+    text #9db4d3
+    quickSelectNoResultsHighlighting #ff5c85
+}
+
+tableHeader {
+    separator #0a3a6b
+    text #9db4d3
+
+    pressed {
+        background #043a73
+    }
+}
+
+tabs {
+    active {
+        text #e6f0fa
+    }
+
+    inactive {
+        background #011d3b
+        text #5f7fa8
+    }
+}
+
+terminal {
+    caret {
+        background #63f2c5
+        text #011d3b
+    }
+}
+
+textEditor {
+    error #ff5c85
+    warning #ffd27a
+    keyword #ff5c85
+    comment #7f9cc2
+    identifier #e6f0fa
+
+    literal {
+        string #63f2c5
+        number #ff9eb5
+        color #63f2c5
+    }
+
+    gutter {
+        background #011d3b
+        text #5f7fa8
+    }
+}
+
+titleBar {
+    text #e6f0fa
+}

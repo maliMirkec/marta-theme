@@ -1,0 +1,26 @@
+background #011d3b
+caret #63f2c5
+caretText #011d3b
+foreground #e6f0fa
+name "Cita Dark"
+selectedText #e6f0fa
+selection #1a535e
+
+ansiColors [
+    #011830
+    #ff5c85
+    #63f2c5
+    #ffd27a
+    #8fd3ff
+    #ff9eb5
+    #7fe3f0
+    #e6f0fa
+    #5f7fa8
+    #ff8aa8
+    #9bf7da
+    #ffe2a8
+    #b8e6ff
+    #ffc2d1
+    #afeff7
+    #ffffff
+]
