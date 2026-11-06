@@ -1,0 +1,35 @@
+environment {
+    terminal "iTerm2"
+    textEditor "/Applications/Visual Studio Code - Insiders.app"
+}
+
+behavior {
+    theme "Cita Light"
+    layout {
+        alwaysShowTabBar true
+    }
+}
+
+etty {
+    theme "CitaLight"
+    useMainThemeColors false
+
+    environ {
+        fish_features "no-query-term"
+    }
+
+    fonts {
+        normal [ "Maple Mono" 13 ]
+    }
+}
+
+fonts {
+    actionBar [ "Maple Mono" 13 ]
+    breadcrumbs [ "Maple Mono" 12 ]
+    virtualTabs [ "Maple Mono" 12 ]
+    files [ "Maple Mono" 13 ]
+    statusBar [ "Maple Mono" 12 ]
+    tableHeader [ "Maple Mono" 12 ]
+    tabs [ "Maple Mono" 12 ]
+    preferences [ "Maple Mono" 13 ]
+}
