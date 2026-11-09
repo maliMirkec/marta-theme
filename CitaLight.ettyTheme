@@ -7,14 +7,14 @@ selectedText #043a73
 selection #c4f5e9
 
 ansiColors [
-    #043a73
+    #e8eff6
     #890b30
     #054e37
     #623b00
     #094480
     #7a2349
     #064b56
-    #3e4c61
+    #d6e1ec
     #435a76
     #971032
     #08563d
@@ -22,5 +22,5 @@ ansiColors [
     #144f78
     #852850
     #0b535e
-    #4a5f7e
+    #ffffff
 ]
