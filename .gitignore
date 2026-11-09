@@ -2,6 +2,5 @@
 !.gitignore
 !Cita*.theme
 !Cita*.ettyTheme
-!cita-*-color-theme.json
 !config.txt
 !README.md
